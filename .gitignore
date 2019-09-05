@@ -1,0 +1,5 @@
+*.DS_Store
+*.swp
+/lib/ruby_openmax_il/ruby_openmax_il.{bundle,dll,so}
+/pkg
+/tmp
